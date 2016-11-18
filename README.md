@@ -22,7 +22,7 @@
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-2.png">
 </p>
-### ผลที่ได้ 
+ผลที่ได้ 
 ![](https://github.com/tbnoung/LAB-10/blob/master/10.2.PNG)
 
 ## การกำหนดจุดปลายของเส้นตรงด้วย style แบบต่างๆ
@@ -31,28 +31,35 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-3.png">
 </p>
-
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.3.PNG)
 
 ##การวาดเส้นโค้ง
 การวาดเส้นโค้ง ทำได้โดยการกำหนดจุดไว้ใน array ของ point แล้วส่งให้กับฟังก์ชัน DrawCurve ดังตัวอย่างต่อไปนี้
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
-
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.4.PNG)
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
-
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.5.PNG)
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-6.png">
 </p> 
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.6.PNG)
 ###การวาดสี่เหลี่ยมพร้อมกันครั้งละหลายๆ รูป
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.7.PNG)
 
 
 ## การวาดวงกลมและวงรี
@@ -60,16 +67,21 @@
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.8.PNG)
 
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-9.png">
 </p> 
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.9.PNG)
 ## การวาดรูป Pie
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
-
+###ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.10.PNG)
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
