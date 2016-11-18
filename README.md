@@ -86,7 +86,8 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
-
+##ผลที่ได้ 
+![](https://github.com/tbnoung/LAB-10/blob/master/10.11.PNG)
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
 
